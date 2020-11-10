@@ -1,2 +1,3 @@
 # mendadak-goblok-web
-Website portofolio mendadak goblok komik
+
+Mendadak goblok amateur website
